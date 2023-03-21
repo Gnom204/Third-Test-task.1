@@ -1,0 +1,6 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/fonts.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/form/form.css);
+@import url(../blocks/form/form__input/form__input.css);
+@import url(../blocks/form/form__submit-btn/form__submit-btn.css);
